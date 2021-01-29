@@ -19,5 +19,5 @@ Here are some ideas to get you started:
 I'm a Data Analyst with PG Diploma in Data Science and Engineering Degree in Mechanical Engineering. I come with extensive experience in field of Data Analysis and Business Intelligence. In my current role at Schlumberger I am able to leverage my prior experience in Mechanical Product Design, while working with equipment sensor and maintenance data to improve equipment reliability and performance.
 
 Things I am good at ⚡:
-Languages: Python, SQL, HTML, CSS, Javascript.
-Tools & Libraries: Power BI, NumPy, Pandas, Scikit-Learn, SciPy, Matplotlib, Keras.
+- Languages: Python, SQL, HTML, CSS, Javascript.
+- Tools & Libraries: Power BI, NumPy, Pandas, Scikit-Learn, SciPy, Matplotlib, Keras.
